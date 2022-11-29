@@ -3,6 +3,14 @@ Android App of the game Battleships (German: Schiffe versenken) <br/>
 Project for Mobile Computing study in University of Applied Sciences Austria Campus Hagenberg
 
 Google Play: https://play.google.com/store/apps/details?id=at.fhooe.mc.android.battleships
+
+## Screenshots
+<div style="width: 1000px; height: 600px;">
+    <img width="25%" src="https://user-images.githubusercontent.com/45870302/204643739-2897d181-4d66-464c-99a8-1dae27640cda.png"/>
+    <img width="25%" src="https://user-images.githubusercontent.com/45870302/204643770-4b796bfc-9b34-47ae-bec9-986d820d4e47.png"/>
+    <img width="25%" src="https://user-images.githubusercontent.com/45870302/204643785-742e0803-59a8-4ba3-9d11-8bd1a56ef040.png"/>
+</div>
+
 ## Game
 * strategy guessing game
 * played on grids
