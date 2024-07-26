@@ -201,6 +201,7 @@ class MainActivity : Activity() {
                     CellState.SHIP -> cellStateShipClicked(row, col)
                     CellState.WATER -> cellStateWaterClicked(row, col)
                     CellState.ERROR -> cellStateErrorClicked()
+                    else -> {}
                 }
             }
         }
